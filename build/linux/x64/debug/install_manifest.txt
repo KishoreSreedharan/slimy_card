@@ -1,0 +1,12 @@
+/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/build/linux/x64/debug/bundle/flutter_slimy_card
+/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/build/linux/x64/debug/bundle/data/flutter_assets/packages/slimy_card/assets/flare/bottomSlime.flr
+/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/build/linux/x64/debug/bundle/data/flutter_assets/packages/slimy_card/assets/flare/topSlime.flr
+/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf

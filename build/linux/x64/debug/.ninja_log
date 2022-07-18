@@ -1,0 +1,28 @@
+# ninja log v5
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/libflutter_linux_gtk.so	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_engine.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_value.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/fl_view.h	3d005acf82f0862
+0	31446	0	/home/kishore/Vs code projects/types_of_textfiled/flutter_slimy_card/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	3d005acf82f0862
+0	31446	0	flutter/_phony_	3d005acf82f0862
+31446	32491	1657865013079758659	CMakeFiles/flutter_slimy_card.dir/main.cc.o	cb2527d63bbcf8de
+31448	32914	1657865013503771092	CMakeFiles/flutter_slimy_card.dir/flutter/generated_plugin_registrant.cc.o	e11f7f3a56c89444
+31447	32943	1657865013531771912	CMakeFiles/flutter_slimy_card.dir/my_application.cc.o	eacdfb947e0870ac
+32944	33175	1657865013767778833	intermediates_do_not_run/flutter_slimy_card	ab2f8fee243ab550
+33175	33424	0	CMakeFiles/install.util	518ada9a80ad726d
